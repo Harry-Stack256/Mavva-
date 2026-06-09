@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@editorjs/editorjs": "^2.31.6",
+    "@themaximalist/llm.js": "^1.0.3"
+  }
+}
